@@ -12,7 +12,7 @@ For users with macOS on Apple Silicon, use the guidance here: https://docs.docke
 
 * For ARM64 machines, such as Apple Silicon.
 
-`docker build -f Dockerfile.arm64 -t btcli .`
+`docker build -t btcli .`
 
 ## Run
 
